@@ -1,4 +1,4 @@
-## Egg Timer
+## Egg Timer
 
 Run this script for a (usually) perfect boiled egg
 
